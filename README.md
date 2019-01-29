@@ -2,7 +2,7 @@
 
 Python ReStreaming with Ffmpeg 
 ## Start Live Video
-python live.py
+> python live.py
 
 ## End Live Video
-python live.py end
+> python live.py end
